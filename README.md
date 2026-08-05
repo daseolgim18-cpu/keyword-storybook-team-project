@@ -90,6 +90,8 @@ keyword-storybook-team-project/
 │   └── 데이터 시각화 결과
 └── presentation/
     └── 팀 프로젝트 최종 발표 자료
+└── demo/
+    └── 팀 프로젝트 시연 영상
 
 ## 결과물
 
