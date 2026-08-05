@@ -88,11 +88,11 @@ keyword-storybook-team-project/
 │   └── 데이터 분석 및 시각화 코드
 ├── images/
 │   └── 데이터 시각화 결과
-└── presentation/
-    └── 팀 프로젝트 최종 발표 자료
+├── presentation/
+│   └── 팀 프로젝트 최종 발표 자료
 └── demo/
     └── 팀 프로젝트 시연 영상
-
+```
 ## 결과물
 
 - [데이터 수집 및 전처리 코드](./notebooks/)
